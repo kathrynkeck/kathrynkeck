@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Katie! 👋
 
-<!--
-**kathrynkeck/kathrynkeck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science & Data Science student at Iowa State University graduating in May 2027. I love using my programming and data analytics skills to solve problems through code. I also love using my communication and leadership skills to work with a team to achieve larger goals.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- **Current Role:** Software Engineer Intern at Nationwide.
+- **Education:** B.S. in Computer Science & Data Science at Iowa State University (GPA: 3.97). Minors in Artificial Intelligence & Sustainability.
+- **Leadership:** Former Overnight Staff Supervisor at Des Moines Y Camp, managing and supporting teams of 80+ leaders.
+- **Languages:** Java, Python, C, C++, R, SQL, Gosu (Guidewire)
+
+## 📈 Featured Projects
+
+*🔧 **Note:** I am currently formatting and documenting some of my latest personal and academic projects. Check back soon to see deep dives into interactive terminal-based software and custom algorithmic implementations!*
+
+---
+
+## 🤝 Connect with Me
+
+- **LinkedIn:** [linkedin.com/in/katie-keck](https://www.linkedin.com/in/katie-keck)
+- **Email:** katiekeck123@gmail.com
