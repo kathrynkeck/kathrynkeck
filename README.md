@@ -9,7 +9,7 @@ I am a Computer Science & Data Science student at Iowa State University graduati
 - **Current Role:** Software Engineer Intern at Nationwide.
 - **Education:** B.S. in Computer Science & Data Science at Iowa State University (GPA: 3.97). Minors in Artificial Intelligence & Sustainability.
 - **Leadership:** Former Overnight Staff Supervisor at Des Moines Y Camp, managing and supporting teams of 80+ leaders.
-- **Languages:** Java, Python, C, C++, R, SQL, Gosu (Guidewire)
+- **Languages:** Java, Python, C, C++, R, SQL
 
 ## 📈 Featured Projects
 
