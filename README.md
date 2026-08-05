@@ -19,11 +19,11 @@ Here are a few projects I’ve been working on recently:
     * *Tech Stack:* Angular, Java Spring Boot, REST APIs
     * A full-stack web application designed to help crafters upload, organize, and track their knitting patterns and project lifecycles. Features interactive PDF rendering, thumbnail generation, and metadata management.
 
-*   **⚔️ [Terminal Pokémon Game](https://github.com/kathrynkeck/pokemon-cpp)**
+*   **⚔️ [Terminal Pokémon Game](https://github.com/kathrynkeck/c-pokemon-game)**
     * *Tech Stack:* C++, `ncurses` Library, OOP
     * A rich, terminal-based Pokémon game clone featuring procedurally navigated maps, formula-driven turn-based battles, customized UI visual effects, and full state management written natively in C++.
 
-*   **🤖 [FIRST Robotics Data Science Capstone](https://github.com/kathrynkeck/frc-data-analysis)**
+*   **🤖 [FIRST Robotics Data Science Capstone](https://github.com/kathrynkeck/FIRST-Robotics-Competition-Data-Challenge)**
     * *Tech Stack:* Python, YOLOv8, Computer Vision, OpenCV
     * A data analytics pipeline utilizing computer vision object-detection models to track and analyze team performance, match footage, and competition game pieces for FIRST Robotics Competition (FRC) insights.
 
