@@ -13,11 +13,23 @@ I am a Computer Science & Data Science student at Iowa State University graduati
 
 ## 📈 Featured Projects
 
-*🔧 **Note:** I am currently formatting and documenting some of my latest personal and academic projects. Check back soon to see deep dives into interactive terminal-based software and custom algorithmic implementations!*
+Here are a few projects I’ve been working on recently:
+
+*   **🧶 [Pattern Tracker](https://github.com/kathrynkeck/pattern-tracker) *(In Progress)*** 
+    * *Tech Stack:* Angular, Java Spring Boot, REST APIs
+    * A full-stack web application designed to help crafters upload, organize, and track their knitting patterns and project lifecycles. Features interactive PDF rendering, thumbnail generation, and metadata management.
+
+*   **⚔️ [Terminal Pokémon Game](https://github.com/kathrynkeck/pokemon-cpp)**
+    * *Tech Stack:* C++, `ncurses` Library, OOP
+    * A rich, terminal-based Pokémon game clone featuring procedurally navigated maps, formula-driven turn-based battles, customized UI visual effects, and full state management written natively in C++.
+
+*   **🤖 [FIRST Robotics Data Science Capstone](https://github.com/kathrynkeck/frc-data-analysis)**
+    * *Tech Stack:* Python, YOLOv8, Computer Vision, OpenCV
+    * A data analytics pipeline utilizing computer vision object-detection models to track and analyze team performance, match footage, and competition game pieces for FIRST Robotics Competition (FRC) insights.
 
 ---
 
 ## 🤝 Connect with Me
 
 - **LinkedIn:** [linkedin.com/in/katie-keck](https://www.linkedin.com/in/katie-keck)
-- **Email:** katiekeck123@gmail.com
+- **Email:** kathrynkeck05@gmail.com
